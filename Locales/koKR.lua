@@ -1,4 +1,4 @@
--- 此本地化文件由项目内的自动脚本生成
+-- 此本地化文件由项目内的自动脚本生成 / testing 
 local E = unpack(ElvUI)
 local L = ElvUI[1].Libs.ACL:NewLocale("ElvUI", "koKR")
 
